@@ -20,7 +20,7 @@ import java.util.Map;
  * 平台用户 前端控制器
  */
 @RestController
-@CrossOrigin
+//@CrossOrigin
 @Api(tags = "用户管理")
 @RequestMapping("/admin/acl/user")
 public class AdminController {

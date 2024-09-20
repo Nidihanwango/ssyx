@@ -17,7 +17,7 @@ import java.util.List;
  * 商品分类 前端控制器
  */
 @RestController
-@CrossOrigin
+//@CrossOrigin
 @Api(tags = "商品分类管理")
 @RequestMapping("/admin/product/category")
 public class CategoryController {

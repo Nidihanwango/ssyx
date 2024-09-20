@@ -18,7 +18,7 @@ import java.util.List;
  * sku信息 前端控制器
  */
 @RestController
-@CrossOrigin
+//@CrossOrigin
 @Api(tags = "sku信息管理")
 @RequestMapping("/admin/product/skuInfo")
 public class SkuInfoController {

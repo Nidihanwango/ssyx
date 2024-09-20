@@ -9,7 +9,7 @@ import java.util.Map;
 
 @RestController
 @RequestMapping("/admin/acl/index")
-@CrossOrigin
+//@CrossOrigin
 @Api(tags = "登录管理")
 public class IndexController {
 

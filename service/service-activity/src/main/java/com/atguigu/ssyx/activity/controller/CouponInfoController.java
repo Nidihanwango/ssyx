@@ -14,7 +14,7 @@ import javax.annotation.Resource;
 import java.util.List;
 import java.util.Map;
 
-@CrossOrigin
+//@CrossOrigin
 @RestController
 @RequestMapping("/admin/activity/couponInfo")
 @Api(tags = "优惠券管理")

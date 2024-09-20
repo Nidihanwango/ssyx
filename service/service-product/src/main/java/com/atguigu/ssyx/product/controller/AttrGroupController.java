@@ -17,7 +17,7 @@ import java.util.List;
  * 平台属性分组 前端控制器
  */
 @RestController
-@CrossOrigin
+//@CrossOrigin
 @Api(tags = "平台属性分组管理")
 @RequestMapping("/admin/product/attrGroup")
 public class AttrGroupController {

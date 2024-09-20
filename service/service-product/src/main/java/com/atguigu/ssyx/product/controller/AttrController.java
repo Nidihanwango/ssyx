@@ -14,7 +14,7 @@ import java.util.List;
  * 平台属性 前端控制器
  */
 @RestController
-@CrossOrigin
+//@CrossOrigin
 @Api(tags = "平台属性管理")
 @RequestMapping("/admin/product/attr")
 public class AttrController {

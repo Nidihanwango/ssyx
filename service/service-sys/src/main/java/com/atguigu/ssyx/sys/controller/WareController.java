@@ -11,7 +11,7 @@ import org.springframework.web.bind.annotation.RestController;
 
 import javax.annotation.Resource;
 
-@CrossOrigin
+//@CrossOrigin
 @Api(tags = "仓库管理")
 @RestController
 @RequestMapping("/admin/sys/ware")

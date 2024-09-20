@@ -13,7 +13,7 @@ import java.util.List;
 /**
  * 菜单管理 前端控制器
  */
-@CrossOrigin
+//@CrossOrigin
 @Api(tags = "菜单管理")
 @RequestMapping("/admin/acl/permission")
 @RestController

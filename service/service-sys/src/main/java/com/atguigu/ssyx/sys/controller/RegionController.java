@@ -8,7 +8,7 @@ import org.springframework.web.bind.annotation.*;
 
 import javax.annotation.Resource;
 
-@CrossOrigin
+//@CrossOrigin
 @Api(tags = "区域管理")
 @RestController
 @RequestMapping("/admin/sys/region")

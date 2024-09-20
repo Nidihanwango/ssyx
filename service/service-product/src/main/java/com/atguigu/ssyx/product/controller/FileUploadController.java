@@ -13,7 +13,7 @@ import org.springframework.web.multipart.MultipartFile;
 import javax.annotation.Resource;
 
 @RestController
-@CrossOrigin
+//@CrossOrigin
 @Api(tags = "文件上传")
 @RequestMapping("/admin/product/fileUpload")
 public class FileUploadController {

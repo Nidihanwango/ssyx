@@ -16,7 +16,7 @@ import java.util.Date;
 import java.util.List;
 import java.util.Map;
 
-@CrossOrigin
+//@CrossOrigin
 @RestController
 @RequestMapping("/admin/activity/activityInfo")
 @Api(tags = "营销活动管理")
